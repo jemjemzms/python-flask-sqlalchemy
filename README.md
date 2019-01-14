@@ -1,4 +1,4 @@
-# python-flask-sqlalchemy-rest
+# python-flask-sqlalchemy
 
 ## What is this?
 A simple Restful API for products that shows the use of Python Flask along with SQL Alchemy and Marshmallow.
