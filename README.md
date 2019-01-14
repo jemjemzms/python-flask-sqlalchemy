@@ -5,7 +5,7 @@ A simple Restful API for products that shows the use of Python Flask along with 
 
 ## Features
 
-  * FLASK <br />
+  * Flask <br />
   * Flask Marshmallow <br />
   * Flask SQL Alchemy
   
